@@ -14,7 +14,6 @@ http://localhost:8088/swagger-ui/index.html
 
 http://localhost:8088/actuator/mappings
 
-# Nevid
 
 # jenkins
 
